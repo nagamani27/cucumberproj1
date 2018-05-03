@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90" started-at="2018-04-19T17:11:32Z" finished-at="2018-04-19T17:11:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90" started-at="2018-04-19T17:11:32Z" finished-at="2018-04-19T17:11:32Z">
+      <class name="org.greensTech.login.Testng">
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:org.greensTech.login.Testng@27a5f880]" name="BeforeClass" is-config="true" duration-ms="24" started-at="2018-04-19T17:11:32Z" finished-at="2018-04-19T17:11:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:org.greensTech.login.Testng@27a5f880]" name="Test" duration-ms="12" started-at="2018-04-19T17:11:32Z" finished-at="2018-04-19T17:11:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:org.greensTech.login.Testng@27a5f880]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2018-04-19T17:11:32Z" finished-at="2018-04-19T17:11:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:org.greensTech.login.Testng@27a5f880]" name="AfterMethod" is-config="true" duration-ms="1" started-at="2018-04-19T17:11:32Z" finished-at="2018-04-19T17:11:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:org.greensTech.login.Testng@27a5f880]" name="AfterClass" is-config="true" duration-ms="5" started-at="2018-04-19T17:11:32Z" finished-at="2018-04-19T17:11:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- org.greensTech.login.Testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

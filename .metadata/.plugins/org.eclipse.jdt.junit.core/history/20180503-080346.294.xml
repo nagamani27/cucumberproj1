@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="cucumber" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="cucumber.cucumber.TestRunner" time="9.763">
+    <testsuite name="Feature: Test radio button and check boxes and verify country in demoqa website" time="9.763">
+      <testsuite name="Scenario: Verifying status" time="0.302">
+        <testcase name="Given The user is on Demoqa Website" classname="Scenario: Verifying status" time="0.235"/>
+        <testcase name="When The user Check the status" classname="Scenario: Verifying status" time="0.065"/>
+        <testcase name="Then The user click the button" classname="Scenario: Verifying status" time="0.002"/>
+      </testsuite>
+      <testsuite name="Scenario: The user is on Demoqa Website" time="0.636">
+        <testcase name="Given The user is on Demoqa Website" classname="Scenario: The user is on Demoqa Website" time="0.481"/>
+        <testcase name="When The user check hobby" classname="Scenario: The user is on Demoqa Website" time="0.142"/>
+        <testcase name="Then The user click check" classname="Scenario: The user is on Demoqa Website" time="0.013"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>
